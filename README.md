@@ -1,6 +1,5 @@
-//==============================
+
 ATM Withdrawal Simulation in C
-=============================//
 
  /**Project Description**/
 
@@ -38,6 +37,7 @@ The withdrawal amount is deducted from the balance.
 The updated balance is displayed.
 
 Otherwise, an appropriate error message is shown.
+
 
 
 
